@@ -33,7 +33,7 @@ Gopi's learn-by-implementing project for robot learning: sys-id, simulation, RL,
 | `perception/` | visual encoders, camera calibration, world models |
 | `RL/` | model-free (value-based, on-policy, off-policy), model-based, offline, real-world, residual, reward design, sim2real |
 | `IL/` | BC, DAgger, ACT, Diffusion Policy, flow matching, VQ-BeT, inverse RL |
-| `VLA/` | architectures, action tokenisation, fine-tuning, RL fine-tuning, inference, benchmarks |
+| `VLA/` | architectures, action tokenisation, fine-tuning, RL fine-tuning, hierarchical planning (reasoning model over a low-level policy), inference, benchmarks |
 | `evaluation/` | sim benchmarks, real-world protocols, statistics, failure analysis |
 | `deployment/` | control loop, async inference, model optimisation, safety |
 | `projects/` | end-to-end SO-101 capstones (teleop → train → evaluate → deploy) |
