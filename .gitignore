@@ -1,3 +1,6 @@
-__pycache__/
-*.pyc
-.mypy_cache/
+.venv/
+.hf_cache/
+outputs/
+wandb/
+env.sh
+.env
